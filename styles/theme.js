@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { extendTheme, theme as chakraTheme } from '@chakra-ui/react';
 
 const fonts = {
