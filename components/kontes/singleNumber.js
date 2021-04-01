@@ -19,7 +19,7 @@ export default function SingleNumber(props) {
   };
 
   return (
-    <Button {...props} {...overrides} margin="0.25rem" onClick={clickHandler}>
+    <Button {...overrides} margin="0.25rem" onClick={clickHandler}>
       {props.children}
     </Button>
   );

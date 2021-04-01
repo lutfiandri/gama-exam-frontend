@@ -6,7 +6,7 @@ import NavbarButton from './navbarButton';
 
 export default function Navbar() {
   return (
-    <Box as="header" bg="teal.900" color="white" position="fixed" top="0" width="100%">
+    <Box as="header" bg="teal.900" color="white" position="fixed" top="0" width="100%" zIndex="10000">
       <Container maxW="container.xl" as={HStack}>
         <Center p={2} fontWeight={700}>
           GamaExam
