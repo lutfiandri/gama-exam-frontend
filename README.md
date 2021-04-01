@@ -17,4 +17,5 @@ Demo: [gama-exam-frontend.vercel.app](https://gama-exam-frontend.vercel.app/)
 ### Kontes
 
 Endpoint: `/kontes/[kontesId]/[nomorSoal]`
+
 Contoh: [`/kontes/sdf65sdf/1`](https://gama-exam-frontend.vercel.app/kontes/sdf65sdf/1)
