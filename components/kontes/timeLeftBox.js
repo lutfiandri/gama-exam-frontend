@@ -1,4 +1,4 @@
-import { Box, Center, Heading, SimpleGrid, VStack, Text } from '@chakra-ui/layout';
+import { Center, Heading, VStack, Text } from '@chakra-ui/layout';
 
 export default function TimeLeftBox() {
   return (
